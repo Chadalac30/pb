@@ -13,7 +13,7 @@ namespace PaceBrewing.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Beers()
         {
             ViewBag.Message = "Your application description page.";
 
